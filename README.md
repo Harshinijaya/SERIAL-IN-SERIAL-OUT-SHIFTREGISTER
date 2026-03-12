@@ -43,3 +43,4 @@ Developed by: RegisterNumber: J.Harshini :212224050120
 ![WhatsApp Image 2026-03-12 at 2 50 03 PM](https://github.com/user-attachments/assets/9f9344da-744a-480d-a0eb-650abd4be926)
 
 **RESULTS**
+the serial in serial out shift register was successfully designed and stimulated using quartusII
